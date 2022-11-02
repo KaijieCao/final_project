@@ -2,8 +2,8 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: My first Webpage
-description: self-introduction
+title: Final team project
+description: the links for all the resources
 
 show_downloads: true
 google_analytics: I forget
